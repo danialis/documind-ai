@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyi
+*.pyc
+venv/
+.env
+*.sqlite3
+*.db
+alembic/versions/*.pyc
+
+# Node/Vite
+node_modules/
+dist/
+build/
+.env.local
+.env.production
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS
+.DS_Store
+Thumbs.db
